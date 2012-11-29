@@ -2,7 +2,8 @@
 <body>
 
 <?php
-echo "Hello first-php-proj ...";
+echo "Hello first-php-proj ... <br />";
+echo "great";
 ?>
 
 </body>
